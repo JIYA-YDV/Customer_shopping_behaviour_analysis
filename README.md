@@ -1,4 +1,4 @@
-Customer Shopping Behaviour Analysis
+Customer Shopping Behavior Analysis
 
 A comprehensive data analytics project analyzing 3,900 customer transactions to uncover spending patterns, customer segments, and actionable business insights.
 
