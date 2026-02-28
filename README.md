@@ -6,10 +6,6 @@ A comprehensive data analytics project analyzing 3,900 customer transactions to 
 This project analyzes customer shopping behavior using transactional data from 3,900 purchases across various product categories. The analysis spans the complete data pipeline—from data cleaning and transformation in Python, through structured business analysis in SQL, to interactive visualization in Power BI.
 Key Business Question: How can the company leverage consumer shopping data to identify trends, improve customer engagement, and optimize marketing and product strategies?
 
-📊 Dashboard Preview
-
-<img width="1863" height="1047" alt="Executive Summary" src="https://github.com/user-attachments/assets/f26139c5-7240-40d6-9d07-ed8e70fdafc5" />
-
 📊 Dataset Summary
 
 | Attribute          | Details                      |
